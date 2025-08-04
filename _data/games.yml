@@ -37,6 +37,15 @@
   lastAddedDate: 2025-07-23
   description: Spin, match, craft, and meet demands, before the townsfolk get too cranky!
 
+- title: Pastry Cranker
+  author: Boruwaka
+  url: https://play.date/games/pastry-cranker/
+  image: ./assets/images/games/pastry-cranker.png
+  color: "#FFF8D4"
+  achievementCount: 18
+  releaseDate: 2025-08-07
+  description: "A cute and chill idle game where you bake sweet treats."
+
 - title: First in… Line?
   author: Rae
   url: https://play.date/games/first-in-line/
